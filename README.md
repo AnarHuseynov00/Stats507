@@ -1,1 +1,1 @@
-This repo is for storing the work created in Stats507 class. The script of ps2q3.py is python file to load and manage the demographics data. Link to the file is [here](./ps2q3.py)
+This repo is for storing the work created in Stats507 class. The script of ps2q3.py is python file to load and manage the demographics data. Link to the file is [here](./ps2q3.py). The repo also contains folder to store pandas tutorial created by me. [Here](./pandas_notes/pd_topic_ahuseyno.py) is the link to file
